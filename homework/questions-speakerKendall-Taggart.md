@@ -3,10 +3,16 @@
 <body>
 
 <h1>Kendall Taggart-2017-04-10</h1>
-<p>Kendall's attributes:
-- she's lovely 
-- she's pretty
-</p>
+<p>Kendall's attributes:</p>
+
+<p>Reed College</p>
+<p>Currently works at BuzzFeed, specializing in data-driven stories.</p>
+<p>Likes to write on charities, crime and environmental issues</p>
+<p>Past: she worked with Reveal at The Center for Investigative Reporting:</p>
+<p>Did a story on *The Dark Side of the Strawberry (cironline.org/strawberries): Co-reported a story about how California pesticide regulators decided to put people in more than 100 communities at a higher risk of cancer</p>
+<p>Another story on *America's Worst Charities (http://cironline.org/americasworstcharities): A first-of-its-kind systemic look at bad actors in the nonprofit sector reported in collaboration with the Tampa Bay Times and CNN. Spent a year using open records laws to gather documents from dozens of states and compile databases to identify the worst organizations. Crisscrossed the country to interview charity executives, former regulators, and telemarketers</p>
+<p>Finalist for the Pulitzer Prize in local reporting</p>
+<p>Questions for Kendall:</p>
 <p>Questions for Kendall:</p>
 <img src="http://cironline.org/sites/default/files/styles/person-thumb-large/public/20110117-staff_cw_kendall_taggart-0018web_color_toned.jpg?itok=b4NmqqVu" alt="W3Schools.com" width="200" height="200">
 
