@@ -24,6 +24,19 @@
 <p>What is working in New york like? What are the peope like there? What is it like reporting on such an upbeat, busy city? The demand for news must be very past pace, how many other journalists do you work with and how fast do you have to get news out and published?</p>
 <p>What is the buzfeed workplace like? How many assignments do you get given a week? What applications do you mainly use?</p>
 
+<h2>Notes on factime</h2>
+<p>2009 Graduated in Oregon at Reed College, had done journalism internships</p>
+<p>Became a waitress, met with as many people as possible, interested in documentary film</p>
+<p>Internship at New England with investigative journalism</p>
+<p>Realised documentary stuff wasn't my thing, followed a guy I liked, lead to California watch, hired her for 6 weeks, wrote story on disaster in area</p>
+<p>Stayed at CIR after internship, so many opportunities through learning from other people</p>
+<p>Been at buzzfeed for 2.5 years</p>
+<p>Data journalism: combination of knocking on people's doors in the real world and coding on Python</p>
+<p>What side of the work do you like better? I would miss the real lifetime news if it only consisted of coding</p>
+<p>Difference between CIR and Buzzfeed: different pace, Buzzfeed is a lot bigger of an environment, more collaborative</p>
+<p>DHow big is your team? In New York about 6 people, in the U.S there are 15 people, at Buzfeed</p>
+<p>Buzfeed - every reporter pitches differently, she likes to write it up like a memo, 10 questions i need to answer next, how it could fail</p>
+
 </body>
 
 
