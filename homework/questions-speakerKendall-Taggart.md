@@ -15,7 +15,7 @@
 <p>Finalist for the Taylor Family Award for Fairness in Journalism</p>
 <p>Barlett and Steele Gold Medal for investigative business journalism, November 2013</p>
 <p>Lives in New York City</p>
-<p>Questions for Kendall:</p>
+<p><b>Questions for Kendall:</b></p>
 <p>Questions for Kendall:</p>
 <img src="http://cironline.org/sites/default/files/styles/person-thumb-large/public/20110117-staff_cw_kendall_taggart-0018web_color_toned.jpg?itok=b4NmqqVu" alt="W3Schools.com" width="200" height="200">
 
