@@ -22,6 +22,8 @@
 <p>What did you study at Reed College? How did you first become involved in data? Many data journalists start as math or computer science majors and move to become data-driven journalists as they love writing, but what inspired you to become a journalist?</p>
 <p>What would be your top tips for students like us who enjoy journalism and want to pursue it as a career? Personally, I haven't had much experience with data journalism, how can I extend my level of expertise in college to allow me to be prepared for the professional journalism work place?</p>
 <p>What is working in New york like? What are the peope like there? What is it like reporting on such an upbeat, busy city? The demand for news must be very past pace, how many other journalists do you work with and how fast do you have to get news out and published?</p>
+<p>What is the buzfeed workplace like? How many assignments do you get given a week? What applications do you mainly use?</p>
 
 </body>
+
 </html># Kendall Taggart - 2017-04-10
