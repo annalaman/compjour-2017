@@ -25,6 +25,7 @@
 <p>What is the buzfeed workplace like? How many assignments do you get given a week? What applications do you mainly use?</p>
 
 <h2>Notes on factime</h2>
+<img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iOS/ios9-facetime-icon.png" alt="W3Schools.com" width="100" height="100">
 <p>2009 Graduated in Oregon at Reed College, had done journalism internships</p>
 <p>Became a waitress, met with as many people as possible, interested in documentary film</p>
 <p>Internship at New England with investigative journalism</p>
@@ -36,6 +37,7 @@
 <p>Difference between CIR and Buzzfeed: different pace, Buzzfeed is a lot bigger of an environment, more collaborative</p>
 <p>DHow big is your team? In New York about 6 people, in the U.S there are 15 people, at Buzfeed</p>
 <p>Buzfeed - every reporter pitches differently, she likes to write it up like a memo, 10 questions i need to answer next, how it could fail</p>
+<p>
 
 </body>
 
