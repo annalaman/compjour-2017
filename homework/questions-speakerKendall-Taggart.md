@@ -38,7 +38,9 @@
 <p>DHow big is your team? In New York about 6 people, in the U.S there are 15 people, at Buzfeed</p>
 <p>Buzfeed - every reporter pitches differently, she likes to write it up like a memo, 10 questions i need to answer next, how it could fail</p>
 <p>CIR put me on the road for 12 days for certain stories, have to be prepared for anything, Buzfeed right now are willing to throw a lot of resources out for reporting</p>
-
+<p>When she first started with investigative journalism, it was mainly because the job title sounded 'interesting'</p>
+<p>The job fit, interesting at the workplace</p>
+<p>Spreadsheet is the main core skill you need/will learn,  </p>
 </body>
 
 
