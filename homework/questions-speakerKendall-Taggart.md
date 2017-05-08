@@ -3,7 +3,7 @@
 <body>
 
 <h1>Kendall Taggart-2017-04-10</h1>
-<p><b>Kendall's attributes:</b></p>
+<p><b><u>Kendall's attributes:</b><u></p>
 
 <p>Attended Reed College</p>
 <p>Currently works at BuzzFeed, specializing in data-driven stories.</p>
@@ -16,7 +16,8 @@
 <p>Barlett and Steele Gold Medal for investigative business journalism, November 2013</p>
 <p>Lives in New York City</p>
 <p><b>Questions for Kendall:</b></p>
-<p>Questions for Kendall:</p>
+<p>Lives in New York City</p>
+
 <img src="http://cironline.org/sites/default/files/styles/person-thumb-large/public/20110117-staff_cw_kendall_taggart-0018web_color_toned.jpg?itok=b4NmqqVu" alt="W3Schools.com" width="200" height="200">
 
 </body>
