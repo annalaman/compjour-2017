@@ -3,9 +3,9 @@
 <body>
 
 <h1>Kendall Taggart-2017-04-10</h1>
-<p>Kendall's attributes:</p>
+<p><b>Kendall's attributes:</b></p>
 
-<p>Reed College</p>
+<p>Attended Reed College</p>
 <p>Currently works at BuzzFeed, specializing in data-driven stories.</p>
 <p>Likes to write on charities, crime and environmental issues</p>
 <p>Past: she worked with Reveal at The Center for Investigative Reporting:</p>
