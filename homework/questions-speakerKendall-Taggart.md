@@ -40,7 +40,10 @@
 <p>CIR put me on the road for 12 days for certain stories, have to be prepared for anything, Buzfeed right now are willing to throw a lot of resources out for reporting</p>
 <p>When she first started with investigative journalism, it was mainly because the job title sounded 'interesting'</p>
 <p>The job fit, interesting at the workplace</p>
-<p>Spreadsheet is the main core skill you need/will learn,  </p>
+<p>Spreadsheet is the main core skill you need/will learn</p>
+<p>Collaborative story curiosities at Buzfeed each week, always looking for things off the news cycle</p>
+<p>Impact of stories: who to point the finger at? laws changed? very rare</p>
+
 </body>
 
 
